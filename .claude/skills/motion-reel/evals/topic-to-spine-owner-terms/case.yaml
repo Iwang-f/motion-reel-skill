@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: topic-to-spine-owner-terms
+expected_outcome: |
+  With no draft, the run picks a pillar and a story shape, writes a spine and a VO script inside the 40 s budget. The
+  explanation runs through one concrete metaphor or tale, the product answers the viewer's last question, and no real
+  person or company is accused of anything. Nothing is generated or rendered.
